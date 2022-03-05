@@ -96,14 +96,6 @@ def align_css_file(args):
     pathlib.Path(new_filename).rename(args.filepath)
     done(args, "Files were successfully renamed!")
 
-    
-            
-            
-        
-        
-        
-    
-
 
 def main():
 
