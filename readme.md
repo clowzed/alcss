@@ -13,7 +13,9 @@
 <br>
 
 [![Downloads](https://static.pepy.tech/personalized-badge/alcss?period=total&units=none&left_color=blue&right_color=brightgreen&left_text=pypi%20downloads)](https://pepy.tech/project/alcss)
+<br>
 
+[![CodeFactor](https://www.codefactor.io/repository/github/clowzed/alcss/badge)](https://www.codefactor.io/repository/github/clowzed/alcss)
 ![Example](./example.png)
 
 
