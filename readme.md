@@ -4,33 +4,17 @@
     
 </div>
 
+
+<br>
+
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+<br>
+
 [![Downloads](https://static.pepy.tech/personalized-badge/alcss?period=total&units=none&left_color=blue&right_color=brightgreen&left_text=pypi%20downloads)](https://pepy.tech/project/alcss)
 
-## Example
-- Imagine you have file - `my-awesome-style.css`
-```css 
-body {
-    margin: 25px;
-    background-color: rgb(240, 240, 240);
-    font-family: arial, sans-serif;
-    font-size: 14px;
-}
-```
-
-- Run this program
-```bash
-alcss my-awesome-style.css
-```
-
-- Result
-```css
-body {
-    margin            :  25px;
-    background-color  :  rgb(240, 240, 240);
-    font-family       :  arial, sans-serif;
-    font-size         :  14px;
-}
-```
+![Example](./example.png)
 
 
 ## Requrirements
